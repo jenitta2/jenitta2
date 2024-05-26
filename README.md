@@ -7,13 +7,10 @@ I am a passionate MCA student at PSGCAS, driven by a curiosity for learning new 
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Masters of Computer Applications at PSG College of Arts and Science.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at LinkedIn before
 
-## My papers
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
+## My published paper
+-(https://ijrpr.com/uploads/V5ISSUE4/IJRPR24928.pdf)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
@@ -24,18 +21,12 @@ I am a passionate MCA student at PSGCAS, driven by a curiosity for learning new 
   - Exploring the ins and outs of HTML and CSS.
   - Navigating through the world ofWeb application development.
   - Learning with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
 
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/jenitta-supriya/)
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
+Thanks for visiting my profile! Let's connect and explore the fascinating world of technology together. 🚀
 <!--
 
 - 🔭 I’m currently working on a web based notepad application
@@ -43,4 +34,3 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: An ambivert who loves and hates people at times
 -->
-
