@@ -2,7 +2,7 @@
 
 I am a passionate MCA(Masters of Computer Applications), driven by a curiosity for learning new technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<jenitta2>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=jenitta2&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
