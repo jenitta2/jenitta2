@@ -11,10 +11,12 @@ I am a passionate MCA student at PSGCAS, driven by a curiosity for learning new 
 - ⚡ Fun fact: An ambivert who loves and hates people at times
 
 ## My published paper 📃
--(https://ijrpr.com/uploads/V5ISSUE4/IJRPR24928.pdf)
+
+- Published a paper under the topic ## "IoT Integration in Smart Cities" in IJRPR (https://ijrpr.com/uploads/V5ISSUE4/IJRPR24928.pdf)
 
 ## Achievements 🏆
 
+- Completed NPTEL exam on "Soft Skills Development".
 - Coordinated many events during college days
 - Participated in intracollege events at PSGCAS
 - Exhibited my managerial and leadership skills everywhere
