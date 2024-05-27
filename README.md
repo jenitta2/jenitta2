@@ -16,25 +16,24 @@ I am a passionate MCA student at PSGCAS, driven by a curiosity for learning to b
 
 ## Achievements 🏆
 
-- Completed NPTEL exam on "Soft Skills Development".
-- Coordinated many events during college days
-- Participated in intracollege events at PSGCAS
-- Exhibited my managerial and leadership skills everywhere
+- Completed NPTEL exam on "Soft Skills Development" to enhance my soft skills in my work environment.
+  
+- Exhibited my managerial and leadership skills everywhere possible.
+
+- Coordinated events successfully during Undergraduate days.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,javascript,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,javascript,tailwindcss,bootstrap)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  
-- 🧨 Exploring the ins and outs of HTML and CSS.
+- 🚀 Learning Full Stack Web Development to create my dream apps
   
 - 💻 Started to learn Javascript to add functionalities in a web page
   
-- 🔭 Learning my fav programming language: Java
+- 🔭 Exploring my fav programming language: Java more deeper
   
-- 🧭 Navigating through the world ofWeb application development.
+- 🧭 Navigating through the world of software product.
   
 - 📚 Learning with Tailwind CSS to create modern and responsive user interfaces.
 
