@@ -10,7 +10,7 @@ I am a passionate MCA student at PSGCAS, driven by a curiosity for learning to b
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: An ambivert who loves and hates people at times
 
-## My published paper 📃
+## Paper Published 📃
 
 - Published a paper under the topic "IoT Integration in Smart Cities" in IJRPR (https://ijrpr.com/uploads/V5ISSUE4/IJRPR24928.pdf)
 
