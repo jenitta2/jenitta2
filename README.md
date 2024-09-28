@@ -27,7 +27,7 @@ I am a passionate MCA student at PSGCAS, driven by a curiosity for learning to b
 
 Learning process:
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,tailwindcss,bootstrap)(https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,javascript,python,bootstrap)(https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
