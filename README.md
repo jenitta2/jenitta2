@@ -23,23 +23,22 @@ I am a passionate MCA student at PSGCAS, driven by a curiosity for learning to b
 - Coordinated events successfully during Undergraduate days.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-Learning process:
+My skillset:
 
-[![My Skills](https://skillicons.dev/icons?i=,javascript,python,bootstrap)(https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+
+Currently Learning:
+
+[![My Skills](https://skillicons.dev/icons?i=python,reactjs)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development to create my dream apps
   
-- 💻 Started to learn Javascript to add functionalities in a web page
-  
-- 🔭 Exploring my fav programming language: Java more deeper
+- 💻 Learning python as my major programming language.
   
 - 🧭 Navigating through the world of software product.
-  
-- 📚 Learning with Tailwind CSS to create modern and responsive user interfaces.
 
 ## 📬 Get in Touch
 
