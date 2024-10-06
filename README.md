@@ -8,7 +8,7 @@ I am a passionate MCA student at PSGCAS, driven by a curiosity for learning to b
 
 - 🔭 I'm currently pursuing my Masters of Computer Applications at PSG College of Arts and Science.
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: An ambivert who loves and hates people at times
+- ⚡ Fun fact: I can cry and laugh at the same moment.
 
 ## Paper Published 📃
 
