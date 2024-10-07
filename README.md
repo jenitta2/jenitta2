@@ -30,7 +30,7 @@ My skillset:
 
 Currently Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=python,reactjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,typescript)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
