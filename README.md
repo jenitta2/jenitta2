@@ -26,11 +26,11 @@ I am a passionate MCA student at PSGCAS, driven by a curiosity for learning to b
 
 My skillset:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java)](https://skillicons.dev)
 
 Currently Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=python,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
