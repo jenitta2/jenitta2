@@ -1,7 +1,6 @@
 # Hi, I'm Jenitta Supriya 👋
 
-I am working as a PHP developer and a passionate MCA student at PSGCAS, driven by a curiosity for learning to build applications. 
-![Your GitHub stats](https://vercel.app)
+I am working as a developer and an 2025 passed out MCA student at PSGCAS, driven by a curiosity for learning to build applications. 
 
 ## 🚀 About Me
 
