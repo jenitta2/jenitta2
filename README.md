@@ -1,14 +1,14 @@
+7
 # Hi, I'm Jenitta Supriya 👋
 
-I am a passionate MCA student at PSGCAS, driven by a curiosity for learning to build applications. My journey involves delving into the world of computer science, coding and new technologies.
+I am working as a PHP developer and a passionate MCA student at PSGCAS, driven by a curiosity for learning to build applications. 
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=jenitta2&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Masters of Computer Applications at PSG College of Arts and Science.
+- 🔭 I'm currently working in a product based company
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: I can cry and laugh at the same moment.
 
 ## Paper Published 📃
 
@@ -26,19 +26,8 @@ I am a passionate MCA student at PSGCAS, driven by a curiosity for learning to b
 
 My skillset:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,symfony)](https://skillicons.dev)
 
-Currently Learning:
-
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-
-## 🌱 Currently Exploring
-
-- 🚀 Learning Full Stack Web Development to create my dream apps
-  
-- 💻 Learning python as my major programming language.
-  
-- 🧭 Navigating through the world of software product.
 
 ## 📬 Get in Touch
 
